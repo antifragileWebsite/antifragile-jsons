@@ -1,11 +1,11 @@
 {
-  "date": "2025-03-29",
+  "date": "2025-03-30",
   "leaderboard": [
     {
       "discord_id": "986879338165174302",
       "discord_username": "ultimate.3101",
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
-      "coins": 105,
+      "coins": 195,
       "server": 1
     },
     {
@@ -13,7 +13,7 @@
       "discord_username": "umar1001_1",
       "avatar": "38e6408c1021fea784778432a5539bb1",
       "coins": 54,
-      "server": 1
+      "server": 2
     }
   ]
 }

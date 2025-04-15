@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-14",
+  "date": "2025-04-15",
   "leaderboard": [
     {
       "discord_id": "986879338165174302",
@@ -26,6 +26,13 @@
       "discord_id": "1180846163822379080",
       "discord_username": "umar1001_1",
       "avatar": "38e6408c1021fea784778432a5539bb1",
+      "coins": 5,
+      "server": 1
+    },
+    {
+      "discord_id": "385451153640521728",
+      "discord_username": "trueconcept",
+      "avatar": "a8641b3e1a0af23e0707e19398862072",
       "coins": 5,
       "server": 1
     }

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-08",
+  "date": "2025-05-11",
   "leaderboard": [
     {
       "discord_id": "1180846163822379080",
@@ -12,7 +12,7 @@
       "discord_id": "986879338165174302",
       "discord_username": "ultimate.3101",
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
-      "coins": 95,
+      "coins": 103,
       "server": 2
     },
     {
@@ -23,18 +23,18 @@
       "server": 2
     },
     {
+      "discord_id": "533669642884087812",
+      "discord_username": "n0tfede",
+      "avatar": "f83afd3a275dd4e7868a24b47bd07708",
+      "coins": 54,
+      "server": 2
+    },
+    {
       "discord_id": "385451153640521728",
       "discord_username": "trueconcept",
       "avatar": "a8641b3e1a0af23e0707e19398862072",
       "coins": 53,
       "server": 1
-    },
-    {
-      "discord_id": "533669642884087812",
-      "discord_username": "n0tfede",
-      "avatar": "f83afd3a275dd4e7868a24b47bd07708",
-      "coins": 24,
-      "server": 2
     },
     {
       "discord_id": "820461806023475230",

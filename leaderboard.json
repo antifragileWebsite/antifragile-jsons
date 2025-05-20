@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-11",
+  "date": "2025-05-20",
   "leaderboard": [
     {
       "discord_id": "1180846163822379080",
@@ -12,20 +12,20 @@
       "discord_id": "986879338165174302",
       "discord_username": "ultimate.3101",
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
-      "coins": 103,
-      "server": 2
-    },
-    {
-      "discord_id": "529252286308941834",
-      "discord_username": "melvinn9888",
-      "avatar": "d89f42659c5b4b540162bcb7b41b63f9",
-      "coins": 54,
+      "coins": 109,
       "server": 2
     },
     {
       "discord_id": "533669642884087812",
       "discord_username": "n0tfede",
       "avatar": "f83afd3a275dd4e7868a24b47bd07708",
+      "coins": 68,
+      "server": 2
+    },
+    {
+      "discord_id": "529252286308941834",
+      "discord_username": "melvinn9888",
+      "avatar": "d89f42659c5b4b540162bcb7b41b63f9",
       "coins": 54,
       "server": 2
     },
@@ -47,6 +47,13 @@
       "discord_id": "359425558729457665",
       "discord_username": "xurrez",
       "avatar": "a_2a43baaf5f3f8581e9d2981fd82f9715",
+      "coins": 5,
+      "server": 2
+    },
+    {
+      "discord_id": "725039128982454284",
+      "discord_username": "scorpio_6544",
+      "avatar": "9215bfa7bd94057e512ecde5d64472cf",
       "coins": 5,
       "server": 2
     },

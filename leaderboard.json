@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23",
+  "date": "2025-05-24",
   "leaderboard": [
     {
       "discord_id": "1180846163822379080",
@@ -16,11 +16,11 @@
       "discord_id": "986879338165174302",
       "discord_username": "ultimate.3101",
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
-      "coins": 137,
+      "coins": 149,
       "server": 2,
       "monthlyTracking": {
         "month": "2025-05",
-        "coinsThisMonth": 4
+        "coinsThisMonth": 16
       }
     },
     {
@@ -112,5 +112,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-05-24T16:28:36.442Z"
+  "lastUpdated": "2025-05-24T16:30:34.974Z"
 }

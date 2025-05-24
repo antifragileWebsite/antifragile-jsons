@@ -19,10 +19,10 @@
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
       "coins": 153,
       "server": 2,
-      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":40}",
+      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":0}",
       "monthlyTracking": {
         "month": "2025-05",
-        "coinsThisMonth": 40
+        "coinsThisMonth": 0
       }
     },
     {

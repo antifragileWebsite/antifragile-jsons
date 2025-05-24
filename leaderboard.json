@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23",
+  "date": "2025-05-24",
   "leaderboard": [
     {
       "discord_id": "1180846163822379080",
@@ -7,7 +7,6 @@
       "avatar": "38e6408c1021fea784778432a5539bb1",
       "coins": 208,
       "server": 1,
-      "monthly_tracking": null,
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
@@ -17,12 +16,11 @@
       "discord_id": "986879338165174302",
       "discord_username": "ultimate.3101",
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
-      "coins": 133,
+      "coins": 137,
       "server": 2,
-      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":0}",
       "monthlyTracking": {
         "month": "2025-05",
-        "coinsThisMonth": 0
+        "coinsThisMonth": 4
       }
     },
     {
@@ -31,7 +29,6 @@
       "avatar": "f83afd3a275dd4e7868a24b47bd07708",
       "coins": 68,
       "server": 2,
-      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":0}",
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
@@ -43,7 +40,6 @@
       "avatar": "d89f42659c5b4b540162bcb7b41b63f9",
       "coins": 54,
       "server": 2,
-      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":0}",
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
@@ -55,7 +51,6 @@
       "avatar": "a8641b3e1a0af23e0707e19398862072",
       "coins": 53,
       "server": 1,
-      "monthly_tracking": null,
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
@@ -67,7 +62,6 @@
       "avatar": "b834d23412141d6c813d65ee75d31141",
       "coins": 13,
       "server": 1,
-      "monthly_tracking": null,
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
@@ -79,7 +73,6 @@
       "avatar": "a_2a43baaf5f3f8581e9d2981fd82f9715",
       "coins": 5,
       "server": 2,
-      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":0}",
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
@@ -91,7 +84,6 @@
       "avatar": "9215bfa7bd94057e512ecde5d64472cf",
       "coins": 5,
       "server": 2,
-      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":0}",
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
@@ -103,7 +95,6 @@
       "avatar": "6fe3d268e36c197c9ed9c87dd68d9b1c",
       "coins": 5,
       "server": 1,
-      "monthly_tracking": null,
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
@@ -115,12 +106,11 @@
       "avatar": "a4e598f4a7503ea7de7c479aba1b5dcb",
       "coins": 5,
       "server": 1,
-      "monthly_tracking": null,
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 0
       }
     }
   ],
-  "lastUpdated": "2025-05-24T16:01:44.086Z"
+  "lastUpdated": "2025-05-24T16:28:36.442Z"
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23",
+  "date": "2025-05-24",
   "leaderboard": [
     {
       "discord_id": "1180846163822379080",
@@ -19,7 +19,7 @@
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
       "coins": 153,
       "server": 2,
-      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":32}",
+      "monthly_tracking": "{\"month\":\"2025-05\",\"coinsThisMonth\":40}",
       "monthlyTracking": {
         "month": "2025-05",
         "coinsThisMonth": 40
@@ -122,5 +122,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-05-24T15:59:47.543Z"
+  "lastUpdated": "2025-05-24T16:01:43.296Z"
 }

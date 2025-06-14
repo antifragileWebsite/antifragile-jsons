@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-24",
+  "date": "2025-06-14",
   "leaderboard": [
     {
       "discord_id": "1180846163822379080",
@@ -8,7 +8,7 @@
       "coins": 208,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-05",
+        "month": "2025-06",
         "coinsThisMonth": 0
       }
     },
@@ -16,22 +16,33 @@
       "discord_id": "986879338165174302",
       "discord_username": "ultimate.3101",
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
-      "coins": 149,
+      "coins": 152,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-05",
-        "coinsThisMonth": 16
+        "month": "2025-06",
+        "coinsThisMonth": 3
+      }
+    },
+    {
+      "discord_id": "725039128982454284",
+      "discord_username": "scorpio_6544",
+      "avatar": "9215bfa7bd94057e512ecde5d64472cf",
+      "coins": 133,
+      "server": 2,
+      "monthlyTracking": {
+        "month": "2025-06",
+        "coinsThisMonth": 128
       }
     },
     {
       "discord_id": "533669642884087812",
       "discord_username": "n0tfede",
       "avatar": "f83afd3a275dd4e7868a24b47bd07708",
-      "coins": 68,
+      "coins": 69,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-05",
-        "coinsThisMonth": 0
+        "month": "2025-06",
+        "coinsThisMonth": 1
       }
     },
     {
@@ -41,7 +52,7 @@
       "coins": 54,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-05",
+        "month": "2025-06",
         "coinsThisMonth": 0
       }
     },
@@ -52,7 +63,7 @@
       "coins": 53,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-05",
+        "month": "2025-06",
         "coinsThisMonth": 0
       }
     },
@@ -63,7 +74,18 @@
       "coins": 13,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-05",
+        "month": "2025-06",
+        "coinsThisMonth": 0
+      }
+    },
+    {
+      "discord_id": "1275198196024348843",
+      "discord_username": "unbasedfren",
+      "avatar": "0927dc4217453c8c5a323f90f4d50fbd",
+      "coins": 6,
+      "server": 1,
+      "monthlyTracking": {
+        "month": "2025-06",
         "coinsThisMonth": 0
       }
     },
@@ -74,18 +96,7 @@
       "coins": 5,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-05",
-        "coinsThisMonth": 0
-      }
-    },
-    {
-      "discord_id": "725039128982454284",
-      "discord_username": "scorpio_6544",
-      "avatar": "9215bfa7bd94057e512ecde5d64472cf",
-      "coins": 5,
-      "server": 2,
-      "monthlyTracking": {
-        "month": "2025-05",
+        "month": "2025-06",
         "coinsThisMonth": 0
       }
     },
@@ -96,21 +107,10 @@
       "coins": 5,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-05",
-        "coinsThisMonth": 0
-      }
-    },
-    {
-      "discord_id": "1065418219579519046",
-      "discord_username": "rebeu10fferent",
-      "avatar": "a4e598f4a7503ea7de7c479aba1b5dcb",
-      "coins": 5,
-      "server": 1,
-      "monthlyTracking": {
-        "month": "2025-05",
+        "month": "2025-06",
         "coinsThisMonth": 0
       }
     }
   ],
-  "lastUpdated": "2025-05-24T16:30:34.974Z"
+  "lastUpdated": "2025-06-14T08:34:27.512Z"
 }

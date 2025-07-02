@@ -1,6 +1,17 @@
 {
-  "date": "2025-06-15",
+  "date": "2025-07-02",
   "leaderboard": [
+    {
+      "discord_id": "725039128982454284",
+      "discord_username": "scorpio_6544",
+      "avatar": "9215bfa7bd94057e512ecde5d64472cf",
+      "coins": 213,
+      "server": 2,
+      "monthlyTracking": {
+        "month": "2025-07",
+        "coinsThisMonth": 80
+      }
+    },
     {
       "discord_id": "1180846163822379080",
       "discord_username": "umar1001_1",
@@ -8,7 +19,7 @@
       "coins": 208,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-06",
+        "month": "2025-07",
         "coinsThisMonth": 0
       }
     },
@@ -16,22 +27,11 @@
       "discord_id": "986879338165174302",
       "discord_username": "ultimate.3101",
       "avatar": "5a9c6245dd38e0042cb4288132a2feb5",
-      "coins": 157,
+      "coins": 164,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-06",
-        "coinsThisMonth": 8
-      }
-    },
-    {
-      "discord_id": "725039128982454284",
-      "discord_username": "scorpio_6544",
-      "avatar": "9215bfa7bd94057e512ecde5d64472cf",
-      "coins": 133,
-      "server": 2,
-      "monthlyTracking": {
-        "month": "2025-06",
-        "coinsThisMonth": 128
+        "month": "2025-07",
+        "coinsThisMonth": 7
       }
     },
     {
@@ -41,8 +41,8 @@
       "coins": 69,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-06",
-        "coinsThisMonth": 1
+        "month": "2025-07",
+        "coinsThisMonth": 0
       }
     },
     {
@@ -52,7 +52,7 @@
       "coins": 54,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-06",
+        "month": "2025-07",
         "coinsThisMonth": 0
       }
     },
@@ -63,7 +63,7 @@
       "coins": 53,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-06",
+        "month": "2025-07",
         "coinsThisMonth": 0
       }
     },
@@ -74,7 +74,7 @@
       "coins": 13,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-06",
+        "month": "2025-07",
         "coinsThisMonth": 0
       }
     },
@@ -85,7 +85,7 @@
       "coins": 6,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-06",
+        "month": "2025-07",
         "coinsThisMonth": 0
       }
     },
@@ -96,7 +96,7 @@
       "coins": 5,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-06",
+        "month": "2025-07",
         "coinsThisMonth": 0
       }
     },
@@ -107,10 +107,10 @@
       "coins": 5,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-06",
+        "month": "2025-07",
         "coinsThisMonth": 0
       }
     }
   ],
-  "lastUpdated": "2025-06-15T06:48:12.938Z"
+  "lastUpdated": "2025-07-02T19:03:31.058Z"
 }

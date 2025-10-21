@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-24",
+  "date": "2025-10-21",
   "leaderboard": [
     {
       "discord_id": "725039128982454284",
@@ -8,8 +8,8 @@
       "coins": 224,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-09",
-        "coinsThisMonth": 8
+        "month": "2025-10",
+        "coinsThisMonth": 0
       }
     },
     {
@@ -19,7 +19,7 @@
       "coins": 166,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-09",
+        "month": "2025-10",
         "coinsThisMonth": 0
       }
     },
@@ -30,7 +30,7 @@
       "coins": 163,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-09",
+        "month": "2025-10",
         "coinsThisMonth": 0
       }
     },
@@ -41,8 +41,8 @@
       "coins": 71,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-09",
-        "coinsThisMonth": 17
+        "month": "2025-10",
+        "coinsThisMonth": 0
       }
     },
     {
@@ -52,7 +52,7 @@
       "coins": 69,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-09",
+        "month": "2025-10",
         "coinsThisMonth": 0
       }
     },
@@ -63,7 +63,18 @@
       "coins": 53,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-09",
+        "month": "2025-10",
+        "coinsThisMonth": 0
+      }
+    },
+    {
+      "discord_id": "764085897918152724",
+      "discord_username": "anhdaucobiet",
+      "avatar": "f30078f4c52486d503bc3a423de1e2a7",
+      "coins": 49,
+      "server": 1,
+      "monthlyTracking": {
+        "month": "2025-10",
         "coinsThisMonth": 0
       }
     },
@@ -74,7 +85,7 @@
       "coins": 16,
       "server": 2,
       "monthlyTracking": {
-        "month": "2025-09",
+        "month": "2025-10",
         "coinsThisMonth": 0
       }
     },
@@ -85,18 +96,7 @@
       "coins": 13,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-09",
-        "coinsThisMonth": 0
-      }
-    },
-    {
-      "discord_id": "764085897918152724",
-      "discord_username": "anhdaucobiet",
-      "avatar": "f30078f4c52486d503bc3a423de1e2a7",
-      "coins": 7,
-      "server": 1,
-      "monthlyTracking": {
-        "month": "2025-09",
+        "month": "2025-10",
         "coinsThisMonth": 0
       }
     },
@@ -107,10 +107,10 @@
       "coins": 6,
       "server": 1,
       "monthlyTracking": {
-        "month": "2025-09",
+        "month": "2025-10",
         "coinsThisMonth": 0
       }
     }
   ],
-  "lastUpdated": "2025-09-24T08:39:26.671Z"
+  "lastUpdated": "2025-10-21T15:09:59.121Z"
 }

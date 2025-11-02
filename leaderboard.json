@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-01",
+  "date": "2025-11-02",
   "leaderboard": [
     {
       "discord_id": "725039128982454284",
@@ -79,10 +79,10 @@
       }
     },
     {
-      "discord_id": "1104089450901938227",
-      "discord_username": "moneyhoney3054",
-      "avatar": "1dc1fe4ed5f30fa90c76e6c0a104e9e6",
-      "coins": 16,
+      "discord_id": "891283163580604426",
+      "discord_username": "zhao8011",
+      "avatar": "15325d03ceac2df0fa96a409ef1af6eb",
+      "coins": 34,
       "server": 2,
       "monthlyTracking": {
         "month": "2025-11",
@@ -112,5 +112,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-11-01T02:30:45.232Z"
+  "lastUpdated": "2025-11-02T18:36:40.445Z"
 }

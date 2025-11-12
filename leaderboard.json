@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-11",
+  "date": "2025-11-12",
   "leaderboard": [
     {
       "discord_id": "725039128982454284",
@@ -32,6 +32,17 @@
       "monthlyTracking": {
         "month": "2025-11",
         "coinsThisMonth": 0
+      }
+    },
+    {
+      "discord_id": "891283163580604426",
+      "discord_username": "zhao8011",
+      "avatar": "15325d03ceac2df0fa96a409ef1af6eb",
+      "coins": 87,
+      "server": 2,
+      "monthlyTracking": {
+        "month": "2025-11",
+        "coinsThisMonth": 53
       }
     },
     {
@@ -68,17 +79,6 @@
       }
     },
     {
-      "discord_id": "891283163580604426",
-      "discord_username": "zhao8011",
-      "avatar": "15325d03ceac2df0fa96a409ef1af6eb",
-      "coins": 52,
-      "server": 2,
-      "monthlyTracking": {
-        "month": "2025-11",
-        "coinsThisMonth": 18
-      }
-    },
-    {
       "discord_id": "764085897918152724",
       "discord_username": "anhdaucobiet",
       "avatar": "f30078f4c52486d503bc3a423de1e2a7",
@@ -112,5 +112,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-11-11T22:25:01.119Z"
+  "lastUpdated": "2025-11-12T12:24:20.322Z"
 }
